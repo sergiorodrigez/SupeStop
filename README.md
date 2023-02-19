@@ -1,4 +1,4 @@
-SupeStop, es un rincon web, destinado a los amantes de los superheroes, en esta pagina, se podra interactuar con los post de otros usuarios sobre superheroes ademas de disponer de las ultimas noticias realcionadas con el tema, e informacion detallada de cada uno de ellos.
+SupeStop, es un rincon web, destinado a los amantes de los superheroes, en esta pagina, se podra interactuar con los post de otros usuarios sobre superheroes ademas de disponer de las ultimas noticias realcionadas con el tema e informacion detallada de cada uno de ellos.
 
 La pagina web consta de 4 ventanas, una principal y 3 interiores, en la parte superior derecha aparecen los tipo botones para moverse por la pagina.
 
