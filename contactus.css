@@ -1,0 +1,54 @@
+
+main{
+  display: flex;
+  justify-content: center;
+}
+.contacto{
+  width: 100%;
+  background-color:  aliceblue;
+  margin-top: 150px;
+  height: 200px;
+  justify-content: center;
+  width: 400px;
+  height: 460px;
+  border-radius: 10px;
+  position: relative; 
+  top: 1em;
+}
+
+fieldset {
+	border: medium none !important;
+	padding: 0;
+  position: relative; 
+  top: 1em;
+}
+
+textarea{
+	height:150px;
+	max-width:100%;
+  resize:none;
+  width: 370px;
+  margin: 10px;
+  font-size: x-large;
+}
+
+input{
+	max-width:100%;
+  resize:none;
+  width: 370px;
+  margin: 10px;
+  height: 40px;
+  font-size: x-large;
+  padding: 1px 2px;
+}
+
+.send{
+	width: 377.2px;
+  height: 47.2px;
+  color: aliceblue;
+  background-color: rgb(53, 53, 53);
+  border: 0px;
+}
+.send:hover{
+  background-color: rgb(102, 102, 102);
+}

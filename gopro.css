@@ -1,0 +1,42 @@
+main{
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  background-color: aliceblue;
+  margin-top: 150px;
+  width: 800px;
+  height: 460px;
+  border-radius: 10px;
+  position: relative; 
+  text-align: center;
+}
+
+th{
+  font-size: xx-large;
+  width: 267px;
+  height: 60px;
+}
+
+td{
+  width: 267px;
+  height: 140px;
+}
+
+.precio{
+  font-family: 'Candara' ;
+  font-size: 52px;
+}
+
+.buy{
+	width: 200px;
+  height: 60px;
+  color: aliceblue;
+  background-color: rgb(53, 53, 53);
+  font-size: large;
+  border: 0px;
+}
+.buy:hover{
+  background-color: rgb(102, 102, 102);
+}
